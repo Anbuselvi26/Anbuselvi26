@@ -21,10 +21,12 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 🎨 I enjoy expressing research through **visual storytelling** and **collaboration**  
 📧 Reach me at **anbuselvi.2603@gmail.com**
 
+<br><br>
 
 <div align="center">
 
 ### 🌐 Let's Connect  
+<br>
 
 <a href="https://www.linkedin.com/in/anbuselvi-s-025b04249" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn"/>
@@ -41,10 +43,17 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 <a href="https://discord.com/channels/@me" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30px" alt="Discord"/>
 </a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
 </div>
+
+<br>
 
 <div align="center">
   
 ### “Teaching ignites curiosity — research turns it into innovation.”  
- Thanks for visiting my profile⭐ — explore my projects, share ideas, or just say hi!  
+⭐ Thanks for visiting my profile — explore my projects, share ideas, or just say hi!  
 </div>
