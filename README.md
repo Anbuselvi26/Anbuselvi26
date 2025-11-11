@@ -1,63 +1,44 @@
-<!-- Dynamic Header -->
-<div align="center">
 
-# 🌟 Hi there, I'm <span style="color:#FF69B4;">Anbuselvi S</span>  
-🎓 **Ph.D. Research Scholar** at *Anna University, Chennai*  
-🔍 Exploring the crossroads of **Artificial Intelligence** and **Cybersecurity**  
-💡 Passionate about merging learning, teaching, creativity, and research  
+
+# 🌟 Hi there, I'm <span style="color:#ff4fa3;">Anbuselvi S</span>  
+
+🎓 **Ph.D. Research Scholar** — *Anna University, Chennai*  
+🔍 Exploring **Artificial Intelligence** × **Cybersecurity**  
+💡 Blending **creativity**, **learning**, and **research** to make tech more human.
 
 ---
 
-<!-- Animated banner -->
-![AI Banner](https://i.imgur.com/9J8EJbA.gif)
+<!-- Simple elegant divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 </div>
-
----
 
 ### 🧭 About Me  
 
-> *As an emerging researcher, I’m passionate about understanding how language models and intelligent systems can bridge theory with practice — creating secure, ethical, and impactful real-world solutions.*
+As a passionate learner and emerging researcher, I’m fascinated by how **language models** and **intelligent systems** can bridge theory and the real world — building secure, ethical, and innovative digital solutions.
 
-- 🔭 Currently researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
-- 🌱 Constantly learning and experimenting with new approaches to **machine learning** and **data protection**  
-- 🎨 Creative storyteller at heart — I enjoy expressing complex ideas through design, writing, and collaboration  
-- 💬 Let’s talk about **AI ethics**, **research innovation**, or **creative coding**
+- 🔭 Researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
+- 🌱 Exploring **language models**, **machine learning**, and **data protection**  
+- 🎨 Creative thinker — I enjoy connecting **technical ideas** with **visual design** and **storytelling**  
+- 💬 Love discussing **AI ethics**, **innovation in research**, and **creative coding**
 
 ---
+
+<div align="center">
 
 ### 🌐 Connect with Me  
 
-<div align="center">
-
 <a href="https://www.linkedin.com/in/anbuselvi-s-025b04249" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/Anbuselvi26" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" alt="Kaggle"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="45px" alt="Kaggle"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Anbuselvi26" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45px" alt="GitHub"/>
 </a>
-
-</div>
-
----
-
-### 📊 GitHub Stats  
-
-<div align="center">
-
-<!-- Animated Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Anbuselvi26&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="Anbuselvi's GitHub Stats"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anbuselvi26&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>  
-
-<br><br>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbuselvi26&layout=compact&theme=radical&hide_border=true" width="50%" alt="Top Languages"/>
 
 </div>
 
@@ -66,9 +47,8 @@
 <div align="center">
 
 ✨ *“Innovation begins where curiosity meets persistence.”*  
-⭐️ *Thanks for visiting my digital workspace — feel free to explore my projects or say hi!*  
+⭐ *Thanks for visiting my digital workspace — feel free to explore my projects or say hi!*  
 
-<!-- Subtle animated divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
