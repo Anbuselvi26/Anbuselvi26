@@ -18,7 +18,6 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 🔭 Researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
 🌱 Constantly exploring **language models**, **machine learning**, and **data privacy**  
 🧑‍🏫 Enthusiastic about **teaching, mentoring**, and making complex ideas intuitive  
-🎨 I enjoy expressing research through **visual storytelling** and **collaboration**  
 📧 Reach me at **anbuselvi.2603@gmail.com**
 
 <br>
