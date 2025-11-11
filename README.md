@@ -1,28 +1,25 @@
 <div align="center">
 
-<!-- 🌟 Minimal Elegant Header -->
-<h1>🌸 Hi, I'm <span style="color:#9b5de5;">Anbuselvi S</span></h1>
+<!-- ✨ Elegant Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=26&duration=3500&pause=800&color=4C84F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anbuselvi+S;Ph.D.+Research+Scholar+%7C+Anna+University;AI+%E2%9E%9F+Cybersecurity+Researcher;Educator+%7C+Lifelong+Learner+%7C+Innovator" alt="Typing Animation"/>
 
 🎓 <b>Ph.D. Research Scholar</b> — <i>Anna University, Chennai</i>  
 🔍 Exploring <b>Artificial Intelligence</b> × <b>Cybersecurity</b>  
-💡 Passionate about blending <b>learning, research, and teaching</b> to make technology more meaningful.  
+💡 Passionate about <b>learning, teaching, and creating</b> meaningful AI-driven solutions  
 
-<!-- Soft animated gradient bar -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 </div>
 
 ### 🧭 About Me  
 
-I’m an emerging researcher deeply curious about how **language models** and **intelligent systems** can bridge theory with real-world applications — creating solutions that are **secure, ethical, and impactful**.  
+Driven by curiosity and a love for sharing knowledge, I explore how **language models** and **intelligent systems** can bridge the gap between **research and real-world impact**.  
+I believe that **teaching and learning** are intertwined — every lesson shared deepens understanding and sparks new discoveries.
 
-Alongside my research, I find joy in **teaching and mentoring** — transforming complex ideas into accessible insights.  
-For me, learning and sharing knowledge go hand in hand — both fuel creativity and progress.  
-
-- 🔭 Currently researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
-- 🌱 Exploring **language models**, **machine learning**, and **data privacy**  
-- 🧑‍🏫 Passionate about **teaching, guiding peers**, and sparking curiosity in tech learners  
-- 🎨 I love connecting **technical ideas** with **visual storytelling** and **innovation**  
+- 🔭 Researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
+- 🌱 Constantly exploring **language models**, **machine learning**, and **data privacy**  
+- 🧑‍🏫 Enthusiastic about **teaching, mentoring**, and making complex ideas intuitive  
+- 🎨 I enjoy expressing research through **visual storytelling** and **collaboration**
 
 ---
 
@@ -30,34 +27,34 @@ For me, learning and sharing knowledge go hand in hand — both fuel creativity 
 
 ### 🌐 Connect with Me  
 
-<!-- Animated glowing ring around icons -->
 <a href="https://www.linkedin.com/in/anbuselvi-s-025b04249" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=9b5de5" width="45px" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48px" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/Anbuselvi26" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=6fgz1EDl2SkM&format=png&color=9b5de5" width="45px" alt="Kaggle"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/anbuselvi26" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="58px" alt="Kaggle"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Anbuselvi26" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=9b5de5" width="45px" alt="GitHub"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48px" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<!-- Subtle pulse animation GIF -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
+<!-- Animated subtle glow bar -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-✨ *“Teaching and learning are two sides of curiosity — one discovers, the other inspires.”*  
-⭐ *Thanks for stopping by — feel free to explore, learn, or collaborate!*  
+<!-- Animated Pulse Accent -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70"/>
 
-<!-- Elegant divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
+
+⭐ Thanks for visiting my profile — explore my projects, share ideas, or just say hi!  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%"/>
 
 </div>
