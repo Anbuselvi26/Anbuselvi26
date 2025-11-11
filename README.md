@@ -28,15 +28,15 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 ### 🌐 Let's Connect  
 
 <a href="https://www.linkedin.com/in/anbuselvi-s-025b04249" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/anbuselvi26" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" alt="Kaggle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30px" alt="Kaggle"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Anbuselvi26" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40px" alt="GitHub"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="30px" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/channels/@me" target="_blank">
@@ -44,6 +44,7 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 </a>
 </div>
 
-### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
+<div align="center">
+#### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
 ⭐ Thanks for visiting my profile — explore my projects, share ideas, or just say hi!  
 </div>
