@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!-- ✨ Elegant Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=26&duration=3500&pause=800&color=4C84F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anbuselvi+S;Ph.D.+Research+Scholar+%7C+Anna+University;AI+%E2%9E%9F+Cybersecurity+Researcher;Educator+%7C+Lifelong+Learner+%7C+Innovator" alt="Typing Animation"/>
@@ -45,11 +45,6 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
-
-<div align="center">
-
-<!-- Animated Pulse Accent -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70"/>
 
 ### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
 
