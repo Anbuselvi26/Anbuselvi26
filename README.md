@@ -7,9 +7,9 @@
 🔍 Exploring <b>Artificial Intelligence</b> × <b>Cybersecurity</b>  
 💡 Passionate about <b>learning, teaching, and creating</b> meaningful AI-driven solutions  
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
----
+</div>
 
 ### 🧭 About Me  
 Driven by curiosity and a love for sharing knowledge, I explore how **language models** and **intelligent systems** can bridge the gap between **research and real-world impact**.  
@@ -38,10 +38,14 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 <a href="https://github.com/Anbuselvi26" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40px" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/channels/@me" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40px" alt="Discord"/>
+</a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
-
----
 
 ### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
 ⭐ Thanks for visiting my profile — explore my projects, share ideas, or just say hi!  
