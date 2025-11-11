@@ -21,7 +21,6 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 🎨 I enjoy expressing research through **visual storytelling** and **collaboration**  
 📧 Reach me at **anbuselvi.2603@gmail.com**
 
----
 
 <div align="center">
 
@@ -43,6 +42,8 @@ I believe that **teaching and learning** are intertwined — every lesson shared
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30px" alt="Discord"/>
 </a>
 </div>
+
+----
 
 <div align="center">
   
