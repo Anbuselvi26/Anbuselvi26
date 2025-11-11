@@ -8,6 +8,7 @@
 
 ### 🧭 About Me
 
+As an emerging researcher, I’m passionate about understanding how language models and intelligent systems can bridge theory with practice — creating secure, ethical, and impactful real-world solutions.
 
 - 🔭 Currently researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
 - 🌱 Constantly learning and experimenting with new approaches to **machine learning** and **data protection**  
@@ -18,18 +19,26 @@
 
 ### 🌐 Connect with Me  
 
-<a href="https://www.linkedin.com/in/anbuselvi-s-025b04249"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"></a>
-<a href="https://www.kaggle.com/Anbuselvi26"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" alt="Kaggle"></a>
-<a href="https://github.com/Anbuselvi26"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/anbuselvi-s-025b04249">
+  <img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/Anbuselvi26">
+  <img align="left" alt="Kaggle" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Anbuselvi26">
+  <img align="left" alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+</a>
+
+<br clear="left"/>
 
 
   ---
 
-
 ### 📊 GitHub Stats
 ![Anbuselvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anbuselvi26&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anbuselvi26&layout=compact&theme=radical)
-
 
 
 ---
