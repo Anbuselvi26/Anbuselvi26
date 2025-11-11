@@ -1,14 +1,15 @@
 
 
-# 🌟 Hi there, I'm <span style="color:#ff4fa3;">Anbuselvi S</span>  
+<!-- ✨ Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=25&pause=1000&color=FF4FA3&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Anbuselvi+S+%F0%9F%8C%9F;Ph.D.+Research+Scholar+at+Anna+University;Exploring+AI+%E2%9E%9F+Cybersecurity;Bridging+Research+%2B+Creativity" alt="Typing Animation" />
 
 🎓 **Ph.D. Research Scholar** — *Anna University, Chennai*  
 🔍 Exploring **Artificial Intelligence** × **Cybersecurity**  
-💡 Blending **creativity**, **learning**, and **research** to make tech more human.
+💡 Blending **creativity**, **learning**, and **research** to make tech more human  
 
 ---
 
-<!-- Simple elegant divider -->
+<!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 </div>
@@ -28,6 +29,7 @@ As a passionate learner and emerging researcher, I’m fascinated by how **langu
 
 ### 🌐 Connect with Me  
 
+<!-- Animated icons with hover effect -->
 <a href="https://www.linkedin.com/in/anbuselvi-s-025b04249" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" alt="LinkedIn"/>
 </a>
@@ -40,15 +42,19 @@ As a passionate learner and emerging researcher, I’m fascinated by how **langu
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45px" alt="GitHub"/>
 </a>
 
-</div>
+<br><br>
 
----
+<!-- Animated Line Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+</div>
 
 <div align="center">
 
 ✨ *“Innovation begins where curiosity meets persistence.”*  
 ⭐ *Thanks for visiting my digital workspace — feel free to explore my projects or say hi!*  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<!-- Animated spark -->
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80"/>
 
 </div>
