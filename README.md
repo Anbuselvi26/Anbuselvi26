@@ -45,6 +45,7 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 </div>
 
 <div align="center">
-#### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
+  
+### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
 ⭐ Thanks for visiting my profile — explore my projects, share ideas, or just say hi!  
 </div>
