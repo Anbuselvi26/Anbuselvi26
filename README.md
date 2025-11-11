@@ -40,11 +40,8 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/channels/@me" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40px" alt="Discord"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="30px" alt="Discord"/>
 </a>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 </div>
 
 ### ✨ “Teaching ignites curiosity — research turns it into innovation.”  
