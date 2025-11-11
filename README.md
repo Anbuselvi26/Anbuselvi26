@@ -14,10 +14,7 @@
 ### 🧭 About Me  
 Driven by curiosity and a love for sharing knowledge, I explore how **language models** and **intelligent systems** can bridge the gap between **research and real-world impact**.  
 I believe that **teaching and learning** are intertwined — every lesson shared deepens understanding and sparks new discoveries.
-
-🔭 Researching **AI for Cybersecurity** at **Ramanujan Computing Centre**  
-🌱 Constantly exploring **language models**, **machine learning**, and **data privacy**  
-🧑‍🏫 Enthusiastic about **teaching, mentoring**, and making complex ideas intuitive  
+ 
 📧 Reach me at **anbuselvi.2603@gmail.com**
 
 <br>
