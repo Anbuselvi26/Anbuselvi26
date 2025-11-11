@@ -46,11 +46,7 @@ I believe that **teaching and learning** are intertwined — every lesson shared
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 </div>
-
-<br>
 
 <div align="center">
   
