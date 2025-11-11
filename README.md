@@ -18,13 +18,10 @@
 
 ### 🌐 Connect with Me  
 
-### 🌐 Connect with Me  
+<a href="https://www.linkedin.com/in/anbuselvi-s-025b04249"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"></a>
+<a href="https://www.kaggle.com/Anbuselvi26"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" alt="Kaggle"></a>
+<a href="https://github.com/Anbuselvi26"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"></a>
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/anbuselvi-s-025b04249)
-[<img align="left" alt="Kaggle" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />](https://www.kaggle.com/Anbuselvi26)
-[<img align="left" alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />](https://github.com/Anbuselvi26)
-
-<br clear="left"/>
 
   ---
 
